@@ -10,6 +10,3 @@ Fetch the imgages of pokemon using a github repo
 Display the detail of the selected pokemon
 Added the functionality of searching the api
 
-## Things Not Done
-
-Add the functionality of filter
